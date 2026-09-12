@@ -1,0 +1,12 @@
+# Release artifacts are uploaded to GitHub Releases, not committed.
+*.zip
+*.rpa
+*.bat
+
+# Local game and build files.
+game/
+cache/
+saves/
+*.rpy
+*.rpyc
+*.log
