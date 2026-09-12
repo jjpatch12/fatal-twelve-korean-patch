@@ -9,7 +9,7 @@ FATAL TWELVE의 일본어판을 기준으로 제작한 비공식 한국어 패�
 
 ## 설치 방법
 
-1. 릴리스에서 `FATAL_TWELVE_한국어패치_v1.0.zip`을 받습니다.
+1. 릴리스에서 `FATAL_TWELVE_Korean_Patch_v1.0.zip`을 받습니다.
 2. ZIP의 파일을 `fatal.exe`가 있는 게임 폴더에 풉니다.
 3. `FATAL_TWELVE_한국어패치_설치.bat`을 실행합니다.
 4. 설치 완료 후 게임을 완전히 종료했다가 다시 실행합니다.
