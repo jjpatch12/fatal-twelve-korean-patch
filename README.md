@@ -1,4 +1,5 @@
 # FATAL TWELVE 한국어 패치
+<img width="1358" height="768" alt="image" src="https://github.com/user-attachments/assets/d295195f-4c8e-4865-9c35-b39e3ee8fe88" />
 
 FATAL TWELVE의 일본어판을 기준으로 제작한 비공식 한국어 패치입니다.
 
