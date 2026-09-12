@@ -3,7 +3,6 @@
 FATAL TWELVE의 일본어판을 기준으로 제작한 비공식 한국어 패치입니다.
 
 - 최신 버전: `v1.0`
-- 대상 빌드: `Fatal.Twelve.Build.11212151`
 - 배포 형식: 자체 포함형 Windows BAT 설치 파일
 - 다운로드: [v1.0 릴리스](https://github.com/jjpatch12/fatal-twelve-korean-patch/releases/tag/v1.0)
 
